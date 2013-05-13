@@ -9,6 +9,6 @@ MATLAB](http://greenteapress.com/matlab/) by Allen B. Downey
 Contents
 --------
 
-  0. [About this translation](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/phys_mod_py/master/00_About.ipynb)
-1. [Variables and values]
+0. [About this translation](https://raw.github.com/vanzaj/physical_modeling_python/master/00_About.ipynb)
+1. [Variables and values](https://raw.github.com/vanzaj/physical_modeling_python/master/01_Variables.ipynb)
 2. Scripts
