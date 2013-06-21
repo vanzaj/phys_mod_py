@@ -13,6 +13,7 @@ Contents
 1. [Variables and values](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/physical_modeling_python/master/01_Variables.ipynb)
 2. [Scripts](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/physical_modeling_python/master/02_Scripts.ipynb)
 3. [Loops](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/physical_modeling_python/master/03_Loops.ipynb)
+3. [Vectors](http://nbviewer.ipython.org/urls/raw.github.com/vanzaj/physical_modeling_python/master/04_Vectors.ipynb)
 
 
 Dependencies
