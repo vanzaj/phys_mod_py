@@ -1,9 +1,10 @@
 Physical Modeling in Python
 ===========================
 
-A "translation" of [Physical Modeling in
+A somewhat liberal "translation" of [Physical Modeling in
 MATLAB](http://greenteapress.com/matlab/) by Allen B. Downey 
 (Version 1.1.6) into Python. Each chapter is just an IPython notebook.
+
 
 
 Contents
